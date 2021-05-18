@@ -1,0 +1,371 @@
+2021-05-18  13:30:17 CalcMain.py:INFO:calc_main init finish!
+2021-05-18  13:30:17 GetFundData.py:INFO:GetFundData init finish!
+2021-05-18  13:30:17 FundPocOptimize.py:INFO:FundPocOptimize init finish !
+2021-05-18  13:30:17 CalcMain.py:INFO:curretn inner_code 11184
+2021-05-18  13:30:17 GetFundData.py:INFO:GetFundData init finish!
+2021-05-18  13:30:17 CalcMain.py:INFO:fund base info : {'EstablishmentDate': Timestamp('2010-07-30 00:00:00'), 'MainCode': '165508', 'Type': 3, 'InvestmentType': 1}
+2021-05-18  13:30:17 CalcMain.py:INFO:get fund asset data success!
+2021-05-18  13:30:17 CalcMain.py:INFO:get trade info data success!
+2021-05-18  13:30:18 CalcMain.py:INFO:get fund publish industry data success!
+2021-05-18  13:30:18 CalcMain.py:INFO:get fund poc_info  data success!
+2021-05-18  13:30:18 CalcReportPocDetail.py:INFO:calc date 2013-03-31 ...
+2021-05-18  13:30:18 CalcReportPocDetail.py:INFO:2013-03-31 industy total ratio: 0.9391
+2021-05-18  13:30:20 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:21 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9391;heav_poc RatioInNV: 0.5574;curretnt stockbool SEC: 17
+2021-05-18  13:30:21 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:21 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:30:21 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:30:21 CalcReportPocDetail.py:INFO:calc date 2013-06-30 ...
+2021-05-18  13:30:22 CalcReportPocDetail.py:INFO:2013-06-30 industy total ratio: 0.9196
+2021-05-18  13:30:24 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:24 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9196;heav_poc RatioInNV: 0.6056;curretnt stockbool SEC: 17
+2021-05-18  13:30:24 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:25 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:30:25 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:30:25 CalcReportPocDetail.py:INFO:calc date 2013-09-30 ...
+2021-05-18  13:30:25 CalcReportPocDetail.py:INFO:2013-09-30 industy total ratio: 0.9339
+2021-05-18  13:30:28 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:28 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9339;heav_poc RatioInNV: 0.6159;curretnt stockbool SEC: 17
+2021-05-18  13:30:28 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:28 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:30:29 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:30:29 CalcReportPocDetail.py:INFO:calc date 2013-12-31 ...
+2021-05-18  13:30:29 CalcReportPocDetail.py:INFO:2013-12-31 industy total ratio: 0.8867
+2021-05-18  13:30:31 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:31 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8867;heav_poc RatioInNV: 0.5167999999999999;curretnt stockbool SEC: 17
+2021-05-18  13:30:32 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:32 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:30:33 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:30:33 CalcReportPocDetail.py:INFO:calc date 2014-03-31 ...
+2021-05-18  13:30:33 CalcReportPocDetail.py:INFO:2014-03-31 industy total ratio: 0.8781
+2021-05-18  13:30:35 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:35 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8781;heav_poc RatioInNV: 0.4516;curretnt stockbool SEC: 17
+2021-05-18  13:30:35 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:36 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:30:36 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:30:36 CalcReportPocDetail.py:INFO:calc date 2014-06-30 ...
+2021-05-18  13:30:36 CalcReportPocDetail.py:INFO:2014-06-30 industy total ratio: 0.9277
+2021-05-18  13:30:38 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:39 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9277;heav_poc RatioInNV: 0.5055;curretnt stockbool SEC: 17
+2021-05-18  13:30:39 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:39 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:30:39 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:30:39 CalcReportPocDetail.py:INFO:calc date 2014-09-30 ...
+2021-05-18  13:30:39 CalcReportPocDetail.py:INFO:2014-09-30 industy total ratio: 0.9299999999999999
+2021-05-18  13:30:42 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:42 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9299999999999999;heav_poc RatioInNV: 0.3796;curretnt stockbool SEC: 17
+2021-05-18  13:30:42 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:43 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:30:43 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:30:43 CalcReportPocDetail.py:INFO:calc date 2014-12-31 ...
+2021-05-18  13:30:43 CalcReportPocDetail.py:INFO:2014-12-31 industy total ratio: 0.8966
+2021-05-18  13:30:45 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:45 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [15627],date:2015-01-19 00:00:00
+2021-05-18  13:30:46 GetFundData.py:INFO:heav poc stock exist suspend:[15627],indusrty return replace!!
+2021-05-18  13:30:46 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8966;heav_poc RatioInNV: 0.4534;curretnt stockbool SEC: 17
+2021-05-18  13:30:46 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:46 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:30:46 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:30:46 CalcReportPocDetail.py:INFO:calc date 2015-03-31 ...
+2021-05-18  13:30:46 CalcReportPocDetail.py:INFO:2015-03-31 industy total ratio: 0.9377
+2021-05-18  13:30:49 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:49 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [61, 311, 318, 1241],date:2015-04-21 00:00:00
+2021-05-18  13:30:49 GetFundData.py:INFO:heav poc stock exist suspend:[61, 311, 318, 1241],indusrty return replace!!
+2021-05-18  13:30:49 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9377;heav_poc RatioInNV: 0.8141;curretnt stockbool SEC: 17
+2021-05-18  13:30:49 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:50 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:30:50 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:30:50 CalcReportPocDetail.py:INFO:calc date 2015-06-30 ...
+2021-05-18  13:30:50 CalcReportPocDetail.py:INFO:2015-06-30 industy total ratio: 0.9043
+2021-05-18  13:30:53 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:53 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [61, 318, 4521],date:2015-07-17 00:00:00
+2021-05-18  13:30:53 GetFundData.py:INFO:heav poc stock exist suspend:[61, 318, 4521],indusrty return replace!!
+2021-05-18  13:30:53 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9043;heav_poc RatioInNV: 0.7183;curretnt stockbool SEC: 17
+2021-05-18  13:30:53 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:53 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:30:54 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:30:54 CalcReportPocDetail.py:INFO:calc date 2015-09-30 ...
+2021-05-18  13:30:54 CalcReportPocDetail.py:INFO:2015-09-30 industy total ratio: 0.8193999999999999
+2021-05-18  13:30:56 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:30:56 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [2175, 2688],date:2015-10-23 00:00:00
+2021-05-18  13:30:56 GetFundData.py:INFO:heav poc stock exist suspend:[2175, 2688],indusrty return replace!!
+2021-05-18  13:30:56 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8193999999999999;heav_poc RatioInNV: 0.4233;curretnt stockbool SEC: 17
+2021-05-18  13:30:57 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:30:57 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:03 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:03 CalcReportPocDetail.py:INFO:calc date 2015-12-31 ...
+2021-05-18  13:31:03 CalcReportPocDetail.py:INFO:2015-12-31 industy total ratio: 0.906
+2021-05-18  13:31:05 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:05 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [2175],date:2016-01-21 00:00:00
+2021-05-18  13:31:06 GetFundData.py:INFO:heav poc stock exist suspend:[2175],indusrty return replace!!
+2021-05-18  13:31:06 FundPocOptimize.py:INFO:current industry RatioInNV: 0.906;heav_poc RatioInNV: 0.3373999999999999;curretnt stockbool SEC: 17
+2021-05-18  13:31:06 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:06 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:07 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:07 CalcReportPocDetail.py:INFO:calc date 2016-03-31 ...
+2021-05-18  13:31:07 CalcReportPocDetail.py:INFO:2016-03-31 industy total ratio: 0.8841000000000001
+2021-05-18  13:31:09 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:09 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [1762],date:2016-04-20 00:00:00
+2021-05-18  13:31:10 GetFundData.py:INFO:heav poc stock exist suspend:[1762],indusrty return replace!!
+2021-05-18  13:31:10 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8841000000000001;heav_poc RatioInNV: 0.2847;curretnt stockbool SEC: 18
+2021-05-18  13:31:10 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:10 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:11 FundPocOptimize.py:INFO:FundPocOptimize slove status infeasible
+2021-05-18  13:31:11 CalcReportPocDetail.py:ERROR:2016-03-31 calc fail,please check the reason!
+2021-05-18  13:31:11 CalcReportPocDetail.py:INFO:calc date 2016-06-30 ...
+2021-05-18  13:31:11 CalcReportPocDetail.py:INFO:2016-06-30 industy total ratio: 0.8274
+2021-05-18  13:31:13 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:13 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [1762, 4351],date:2016-07-18 00:00:00
+2021-05-18  13:31:13 GetFundData.py:INFO:heav poc stock exist suspend:[1762, 4351],indusrty return replace!!
+2021-05-18  13:31:13 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8274;heav_poc RatioInNV: 0.2996;curretnt stockbool SEC: 18
+2021-05-18  13:31:13 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:14 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:14 FundPocOptimize.py:INFO:FundPocOptimize slove status infeasible
+2021-05-18  13:31:14 CalcReportPocDetail.py:ERROR:2016-06-30 calc fail,please check the reason!
+2021-05-18  13:31:14 CalcReportPocDetail.py:INFO:calc date 2016-09-30 ...
+2021-05-18  13:31:14 CalcReportPocDetail.py:INFO:2016-09-30 industy total ratio: 0.7664
+2021-05-18  13:31:17 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:17 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [4351],date:2016-10-25 00:00:00
+2021-05-18  13:31:17 GetFundData.py:INFO:heav poc stock exist suspend:[4351],indusrty return replace!!
+2021-05-18  13:31:17 FundPocOptimize.py:INFO:current industry RatioInNV: 0.7664;heav_poc RatioInNV: 0.3466;curretnt stockbool SEC: 18
+2021-05-18  13:31:17 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:18 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:18 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:18 CalcReportPocDetail.py:INFO:calc date 2016-12-31 ...
+2021-05-18  13:31:18 CalcReportPocDetail.py:INFO:2016-12-31 industy total ratio: 0.7941
+2021-05-18  13:31:21 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:21 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [516],date:2017-01-19 00:00:00
+2021-05-18  13:31:21 GetFundData.py:INFO:heav poc stock exist suspend:[516],indusrty return replace!!
+2021-05-18  13:31:21 FundPocOptimize.py:INFO:current industry RatioInNV: 0.7941;heav_poc RatioInNV: 0.2143;curretnt stockbool SEC: 18
+2021-05-18  13:31:21 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:22 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:22 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:22 CalcReportPocDetail.py:INFO:calc date 2017-03-31 ...
+2021-05-18  13:31:22 CalcReportPocDetail.py:INFO:2017-03-31 industy total ratio: 0.9047000000000001
+2021-05-18  13:31:25 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:25 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9047000000000001;heav_poc RatioInNV: 0.23420000000000002;curretnt stockbool SEC: 18
+2021-05-18  13:31:25 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:26 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:26 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:26 CalcReportPocDetail.py:INFO:calc date 2017-06-30 ...
+2021-05-18  13:31:26 CalcReportPocDetail.py:INFO:2017-06-30 industy total ratio: 0.7879
+2021-05-18  13:31:29 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:29 FundPocOptimize.py:INFO:current industry RatioInNV: 0.7879;heav_poc RatioInNV: 0.31009999999999993;curretnt stockbool SEC: 18
+2021-05-18  13:31:30 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:30 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:31 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:31 CalcReportPocDetail.py:INFO:calc date 2017-09-30 ...
+2021-05-18  13:31:31 CalcReportPocDetail.py:INFO:2017-09-30 industy total ratio: 0.8734999999999999
+2021-05-18  13:31:33 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:34 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8734999999999999;heav_poc RatioInNV: 0.35559999999999997;curretnt stockbool SEC: 18
+2021-05-18  13:31:34 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:34 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:35 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:35 CalcReportPocDetail.py:INFO:calc date 2017-12-31 ...
+2021-05-18  13:31:35 CalcReportPocDetail.py:INFO:2017-12-31 industy total ratio: 0.7404000000000001
+2021-05-18  13:31:38 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:38 FundPocOptimize.py:INFO:current industry RatioInNV: 0.7404000000000001;heav_poc RatioInNV: 0.3673;curretnt stockbool SEC: 18
+2021-05-18  13:31:38 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:39 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:40 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:40 CalcReportPocDetail.py:INFO:calc date 2018-03-31 ...
+2021-05-18  13:31:40 CalcReportPocDetail.py:INFO:2018-03-31 industy total ratio: 0.8727
+2021-05-18  13:31:43 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:43 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [105],date:2018-04-20 00:00:00
+2021-05-18  13:31:43 GetFundData.py:INFO:heav poc stock exist suspend:[105],indusrty return replace!!
+2021-05-18  13:31:43 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8727;heav_poc RatioInNV: 0.35529999999999995;curretnt stockbool SEC: 18
+2021-05-18  13:31:43 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:44 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:45 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:45 CalcReportPocDetail.py:INFO:calc date 2018-06-30 ...
+2021-05-18  13:31:45 CalcReportPocDetail.py:INFO:2018-06-30 industy total ratio: 0.7503
+2021-05-18  13:31:48 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:48 FundPocOptimize.py:INFO:current industry RatioInNV: 0.7503;heav_poc RatioInNV: 0.34040000000000004;curretnt stockbool SEC: 18
+2021-05-18  13:31:49 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:49 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:50 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:50 CalcReportPocDetail.py:INFO:calc date 2018-09-30 ...
+2021-05-18  13:31:50 CalcReportPocDetail.py:INFO:2018-09-30 industy total ratio: 0.6920999999999999
+2021-05-18  13:31:53 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:54 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [30181],date:2018-10-23 00:00:00
+2021-05-18  13:31:54 GetFundData.py:INFO:heav poc stock exist suspend:[30181],indusrty return replace!!
+2021-05-18  13:31:54 FundPocOptimize.py:INFO:current industry RatioInNV: 0.6920999999999999;heav_poc RatioInNV: 0.34370000000000006;curretnt stockbool SEC: 18
+2021-05-18  13:31:54 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:31:55 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:31:55 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:31:55 CalcReportPocDetail.py:INFO:calc date 2018-12-31 ...
+2021-05-18  13:31:55 CalcReportPocDetail.py:INFO:2018-12-31 industy total ratio: 0.7064
+2021-05-18  13:31:59 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:31:59 FundPocOptimize.py:INFO:current industry RatioInNV: 0.7064;heav_poc RatioInNV: 0.3167;curretnt stockbool SEC: 18
+2021-05-18  13:31:59 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:00 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:01 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:01 CalcReportPocDetail.py:INFO:calc date 2019-03-31 ...
+2021-05-18  13:32:01 CalcReportPocDetail.py:INFO:2019-03-31 industy total ratio: 0.8087
+2021-05-18  13:32:04 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:04 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8087;heav_poc RatioInNV: 0.38;curretnt stockbool SEC: 18
+2021-05-18  13:32:04 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:05 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:06 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:06 CalcReportPocDetail.py:INFO:calc date 2019-06-30 ...
+2021-05-18  13:32:06 CalcReportPocDetail.py:INFO:2019-06-30 industy total ratio: 0.9013999999999999
+2021-05-18  13:32:09 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:10 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9013999999999999;heav_poc RatioInNV: 0.3807;curretnt stockbool SEC: 18
+2021-05-18  13:32:10 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:10 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:11 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:11 CalcReportPocDetail.py:INFO:calc date 2019-09-30 ...
+2021-05-18  13:32:11 CalcReportPocDetail.py:INFO:2019-09-30 industy total ratio: 0.9154
+2021-05-18  13:32:15 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:15 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9154;heav_poc RatioInNV: 0.366;curretnt stockbool SEC: 18
+2021-05-18  13:32:15 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:16 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:17 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:17 CalcReportPocDetail.py:INFO:calc date 2019-12-31 ...
+2021-05-18  13:32:17 CalcReportPocDetail.py:INFO:2019-12-31 industy total ratio: 0.8887
+2021-05-18  13:32:18 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:19 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8887;heav_poc RatioInNV: 0.41910000000000003;curretnt stockbool SEC: 18
+2021-05-18  13:32:19 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:19 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:20 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:20 CalcReportPocDetail.py:INFO:calc date 2020-03-31 ...
+2021-05-18  13:32:20 CalcReportPocDetail.py:INFO:2020-03-31 industy total ratio: 0.8932999999999999
+2021-05-18  13:32:21 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:21 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8932999999999999;heav_poc RatioInNV: 0.4488;curretnt stockbool SEC: 18
+2021-05-18  13:32:21 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:22 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:23 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:23 CalcReportPocDetail.py:INFO:calc date 2020-06-30 ...
+2021-05-18  13:32:23 CalcReportPocDetail.py:INFO:2020-06-30 industy total ratio: 0.9017
+2021-05-18  13:32:24 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:24 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9017;heav_poc RatioInNV: 0.46340000000000003;curretnt stockbool SEC: 18
+2021-05-18  13:32:24 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:25 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:26 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:26 CalcReportPocDetail.py:INFO:calc date 2020-09-30 ...
+2021-05-18  13:32:26 CalcReportPocDetail.py:INFO:2020-09-30 industy total ratio: 0.8812
+2021-05-18  13:32:26 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:27 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8812;heav_poc RatioInNV: 0.42250000000000004;curretnt stockbool SEC: 18
+2021-05-18  13:32:27 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:28 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:28 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:29 CalcReportPocDetail.py:INFO:calc date 2020-12-31 ...
+2021-05-18  13:32:29 CalcReportPocDetail.py:INFO:2020-12-31 industy total ratio: 0.8923000000000001
+2021-05-18  13:32:29 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:29 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8923000000000001;heav_poc RatioInNV: 0.4972;curretnt stockbool SEC: 18
+2021-05-18  13:32:29 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:30 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:31 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:31 CalcReportPocDetail.py:INFO:calc date 2021-03-31 ...
+2021-05-18  13:32:31 CalcReportPocDetail.py:INFO:2021-03-31 industy total ratio: 0.8557999999999999
+2021-05-18  13:32:32 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:32 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8557999999999999;heav_poc RatioInNV: 0.42510000000000003;curretnt stockbool SEC: 18
+2021-05-18  13:32:32 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:33 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:34 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:34 CalcReportPocDetail.py:ERROR:calc error date :[Timestamp('2016-03-31 00:00:00'), Timestamp('2016-06-30 00:00:00')]
+2021-05-18  13:32:34 CalcMain.py:INFO:calc finish!!!
+
+
+
+2021-05-18  13:32:34 CalcMain.py:INFO:curretn inner_code 11834
+2021-05-18  13:32:34 GetFundData.py:INFO:GetFundData init finish!
+2021-05-18  13:32:34 CalcMain.py:INFO:fund base info : {'EstablishmentDate': Timestamp('2010-12-10 00:00:00'), 'MainCode': '050018', 'Type': 2, 'InvestmentType': 2}
+2021-05-18  13:32:34 CalcMain.py:INFO:get fund asset data success!
+2021-05-18  13:32:34 CalcMain.py:INFO:get trade info data success!
+2021-05-18  13:32:35 CalcMain.py:INFO:get fund publish industry data success!
+2021-05-18  13:32:35 CalcMain.py:INFO:get fund poc_info  data success!
+2021-05-18  13:32:35 CalcReportPocDetail.py:INFO:calc date 2013-03-31 ...
+2021-05-18  13:32:35 CalcReportPocDetail.py:INFO:2013-03-31 industy total ratio: 0.8606999999999999
+2021-05-18  13:32:38 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:38 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8606999999999999;heav_poc RatioInNV: 0.5461999999999999;curretnt stockbool SEC: 17
+2021-05-18  13:32:38 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:39 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:39 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:39 CalcReportPocDetail.py:INFO:calc date 2013-06-30 ...
+2021-05-18  13:32:39 CalcReportPocDetail.py:INFO:2013-06-30 industy total ratio: 0.7809
+2021-05-18  13:32:43 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:43 FundPocOptimize.py:INFO:current industry RatioInNV: 0.7809;heav_poc RatioInNV: 0.5231;curretnt stockbool SEC: 17
+2021-05-18  13:32:43 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:43 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:44 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:44 CalcReportPocDetail.py:INFO:calc date 2013-09-30 ...
+2021-05-18  13:32:44 CalcReportPocDetail.py:INFO:2013-09-30 industy total ratio: 0.8205
+2021-05-18  13:32:47 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:47 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8205;heav_poc RatioInNV: 0.506;curretnt stockbool SEC: 17
+2021-05-18  13:32:47 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:48 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:48 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:48 CalcReportPocDetail.py:INFO:calc date 2013-12-31 ...
+2021-05-18  13:32:48 CalcReportPocDetail.py:INFO:2013-12-31 industy total ratio: 0.8106
+2021-05-18  13:32:51 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:52 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [11964],date:2014-01-21 00:00:00
+2021-05-18  13:32:52 GetFundData.py:INFO:heav poc stock exist suspend:[11964],indusrty return replace!!
+2021-05-18  13:32:52 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8106;heav_poc RatioInNV: 0.5125;curretnt stockbool SEC: 17
+2021-05-18  13:32:52 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:52 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:53 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:53 CalcReportPocDetail.py:INFO:calc date 2014-03-31 ...
+2021-05-18  13:32:53 CalcReportPocDetail.py:INFO:2014-03-31 industy total ratio: 0.7283
+2021-05-18  13:32:56 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:32:56 FundPocOptimize.py:INFO:current industry RatioInNV: 0.7283;heav_poc RatioInNV: 0.5903;curretnt stockbool SEC: 17
+2021-05-18  13:32:56 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:32:57 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:32:57 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:32:57 CalcReportPocDetail.py:INFO:calc date 2014-06-30 ...
+2021-05-18  13:32:57 CalcReportPocDetail.py:INFO:2014-06-30 industy total ratio: 0.7292
+2021-05-18  13:33:00 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:33:01 FundPocOptimize.py:INFO:current industry RatioInNV: 0.7292;heav_poc RatioInNV: 0.47519999999999996;curretnt stockbool SEC: 17
+2021-05-18  13:33:01 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:33:01 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:33:01 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:33:02 CalcReportPocDetail.py:INFO:calc date 2014-09-30 ...
+2021-05-18  13:33:02 CalcReportPocDetail.py:INFO:2014-09-30 industy total ratio: 0.8418000000000001
+2021-05-18  13:33:04 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:33:05 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [9313, 12198],date:2014-10-24 00:00:00
+2021-05-18  13:33:05 GetFundData.py:INFO:heav poc stock exist suspend:[9313, 12198],indusrty return replace!!
+2021-05-18  13:33:05 FundPocOptimize.py:INFO:current industry RatioInNV: 0.8418000000000001;heav_poc RatioInNV: 0.46990000000000004;curretnt stockbool SEC: 17
+2021-05-18  13:33:05 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:33:05 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:33:06 FundPocOptimize.py:INFO:FundPocOptimize slove status infeasible
+2021-05-18  13:33:06 CalcReportPocDetail.py:ERROR:2014-09-30 calc fail,please check the reason!
+2021-05-18  13:33:06 CalcReportPocDetail.py:INFO:calc date 2014-12-31 ...
+2021-05-18  13:33:06 CalcReportPocDetail.py:INFO:2014-12-31 industy total ratio: 0.6974004290374242
+2021-05-18  13:33:09 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:33:09 FundPocOptimize.py:INFO:current industry RatioInNV: 0.6974004290374242;heav_poc RatioInNV: 0.5023000000000001;curretnt stockbool SEC: 17
+2021-05-18  13:33:09 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:33:10 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:33:10 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:33:10 CalcReportPocDetail.py:INFO:calc date 2015-03-31 ...
+2021-05-18  13:33:10 CalcReportPocDetail.py:INFO:2015-03-31 industy total ratio: 0.9037
+2021-05-18  13:33:13 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:33:14 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9037;heav_poc RatioInNV: 0.7038;curretnt stockbool SEC: 17
+2021-05-18  13:33:14 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:33:14 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:33:22 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:33:22 CalcReportPocDetail.py:INFO:calc date 2015-06-30 ...
+2021-05-18  13:33:22 CalcReportPocDetail.py:INFO:2015-06-30 industy total ratio: 0.9287054671211757
+2021-05-18  13:33:25 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:33:25 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [4575],date:2015-07-17 00:00:00
+2021-05-18  13:33:25 GetFundData.py:INFO:heav poc stock exist suspend:[4575],indusrty return replace!!
+2021-05-18  13:33:25 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9287054671211757;heav_poc RatioInNV: 0.8318;curretnt stockbool SEC: 17
+2021-05-18  13:33:25 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:33:26 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:33:29 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal
+2021-05-18  13:33:29 CalcReportPocDetail.py:INFO:calc date 2015-09-30 ...
+2021-05-18  13:33:29 CalcReportPocDetail.py:INFO:2015-09-30 industy total ratio: 0.6125415154801901
+2021-05-18  13:33:32 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:33:32 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [1902, 11751, 13336],date:2015-10-23 00:00:00
+2021-05-18  13:33:32 GetFundData.py:INFO:heav poc stock exist suspend:[1902, 11751, 13336],indusrty return replace!!
+2021-05-18  13:33:32 FundPocOptimize.py:INFO:current industry RatioInNV: 0.6125415154801901;heav_poc RatioInNV: 0.6022000000000001;curretnt stockbool SEC: 17
+2021-05-18  13:33:32 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:33:33 FundPocOptimize.py:INFO:FundPocOptimize slove......
+2021-05-18  13:33:42 FundPocOptimize.py:INFO:FundPocOptimize slove status optimal_inaccurate
+2021-05-18  13:33:42 CalcReportPocDetail.py:INFO:calc date 2015-12-31 ...
+2021-05-18  13:33:42 CalcReportPocDetail.py:INFO:2015-12-31 industy total ratio: 0.9439
+2021-05-18  13:33:45 GetFundData.py:INFO:handle industry classify finish!
+2021-05-18  13:33:45 GetFundData.py:ERROR:heav poc have suspend or othern condition stock: [1250, 1902],date:2016-01-19 00:00:00
+2021-05-18  13:33:45 GetFundData.py:INFO:heav poc stock exist suspend:[1250, 1902],indusrty return replace!!
+2021-05-18  13:33:45 FundPocOptimize.py:INFO:current industry RatioInNV: 0.9439;heav_poc RatioInNV: 0.6487;curretnt stockbool SEC: 18
+2021-05-18  13:33:46 FundPocOptimize.py:INFO:matrix init finish!
+2021-05-18  13:33:47 FundPocOptimize.py:INFO:FundPocOptimize slove......
